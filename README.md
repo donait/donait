@@ -71,16 +71,4 @@
 
 ---
 
-## GitHub Stats
-
-![Tam Tran's GitHub stats](https://github-readme-stats.vercel.app/api?username=itistamtran&theme=rose_pine&show_icons=true)
-
----
-
-
-## Contributions
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=itistamtran&theme=dark)
----
-
 *This README is open for inspiration - make it your own!*
