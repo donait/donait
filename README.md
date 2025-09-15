@@ -15,9 +15,8 @@
 ---
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tamtran-/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:itistamtran@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-website?logo=githubpages)](https://tamtran.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jonathan-martinez-a21619239)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:imdonait@gmail.com)
 
 ---
 
