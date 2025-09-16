@@ -1,23 +1,23 @@
-# itsdonait
-<h1 align="center">Hi 👋, I'm Donait</h1>
+#jmartinez002
+<h1 align="center">Hi 👋, I'm Jonathan</h1>
 <p align="center">
   <em>Aspiring AI engineer with interests in software, data science, and research.<br>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=itisdonait&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=jmartinez002&style=flat-square&color=blue" alt="profile views"/>
 </p>
 
 
-- 🌐 Discover my work: [Donait.dev](https://Donait.vercel.app/projects)
+- 🌐 Discover my work: [jmar.dev](https://jmar.vercel.app/projects)
 - 🚀 Currently exploring: AWS and cloud fundamentals
 
 ---
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jonathan-martinez-a21619239)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:imdonait@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-website?logo=githubpages)](https://Donait.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:mjonuthn@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-website?logo=githubpages)](https://jmar.vercel.app)
 
 ---
 
