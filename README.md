@@ -17,6 +17,7 @@
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jonathan-martinez-a21619239)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:imdonait@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-website?logo=githubpages)](https://Donait.vercel.app)
 
 ---
 
@@ -66,7 +67,7 @@
 ![Canva](https://img.shields.io/badge/-Canva-333?style=flat&logo=canva)
 
 ### Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itisdonait&layout=compact&hide_border=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itistamtan&layout=compact&hide_border=true&theme=dark" />
 
 ---
 
