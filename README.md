@@ -1,4 +1,3 @@
-# jmartinez002
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <p align="center">
   <em>Aspiring AI engineer with interests in software, data science, and research.<br>
@@ -9,7 +8,7 @@
 </p>
 
 
-- 🌐 Discover my work: [jmar.dev](https://jmar.vercel.app/projects)
+- 🌐 Discover my work: [jmar.dev](https://jmar02.vercel.app/projects)
 - 🚀 Currently exploring: AWS and cloud fundamentals
 
 ---
