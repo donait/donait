@@ -5,11 +5,11 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=itistamtran&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=itisdonait&style=flat-square&color=blue" alt="profile views"/>
 </p>
 
 
-- 🌐 Discover my work: [tamtran.dev](https://tamtran.vercel.app/projects)
+- 🌐 Discover my work: [Donait.dev](https://Donait.vercel.app/projects)
 - 🚀 Currently exploring: AWS and cloud fundamentals
 
 ---
@@ -66,7 +66,7 @@
 ![Canva](https://img.shields.io/badge/-Canva-333?style=flat&logo=canva)
 
 ### Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itistamtran&layout=compact&hide_border=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itisdonait&layout=compact&hide_border=true&theme=dark" />
 
 ---
 
