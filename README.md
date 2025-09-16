@@ -1,4 +1,4 @@
-#jmartinez002
+# jmartinez002
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <p align="center">
   <em>Aspiring AI engineer with interests in software, data science, and research.<br>
@@ -67,7 +67,7 @@
 ![Canva](https://img.shields.io/badge/-Canva-333?style=flat&logo=canva)
 
 ### Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itistamtan&layout=compact&hide_border=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itistamtran&layout=compact&hide_border=true&theme=dark" />
 
 ---
 
